@@ -1,0 +1,27 @@
+# Dependencies
+markdown: kramdown
+highlighter: rouge # changed from `pygments` as github says so
+plugins: [jekyll-paginate]
+
+# Permalinks
+permalink: pretty
+
+# Setup
+title: MarkusLohmayer.github.io
+tagline: ''
+description: 'personal website of Markus Lohmayer'
+url: https://MarkusLohmayer.github.io
+baseurl: ''
+paginate: 5
+paginate_path: '/blog/page:num/'
+
+# About/contact
+author:
+  name: 'Markus Lohmayer'
+  email: 'markus.lohmayer@gmail.com'
+  github: MarkusLohmayer
+  twitter: MarkusLohmayer
+  linkedin: markus-lohmayer
+
+
+excerpt_separator: <!--more-->
