@@ -4,7 +4,7 @@ title: "Untested C++ considered harmful"
 tags: [C++, software testing]
 ---
 
-I recently wrote an article for the 'Advanced C++ programming' seminar in which I participated as a part of my master's degreein Computational Engineering.
+I recently wrote an article about software testing. It was my contribution to the 'Advanced C++ programming' seminar that I chose as an elevtive for my master's degree in Computational Engineering.
 
 <!--more-->
 
