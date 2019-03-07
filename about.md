@@ -10,7 +10,7 @@ Previously I completed an apprenticeship in carpentry (fine woodwork) in the All
 
 ### Contact
 
-Please contact me via [email](mailto:Markus.Lohmayer@gmail.com) or Twitter (DM).
+Please contact me via [email](mailto:{{ site.author.email }}) or [Twitter](https://twitter.com/{{ site.author.twitter }}) (DM).
 
 ### CV
 
