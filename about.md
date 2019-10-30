@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am Markus Lohmayer from southern Germany.  
+I am Markus Lohmayer from southern Germany.
 Currently I am a MSc student in the [Computational Engineering](https://www.ce.studium.fau.eu) programm at FAU, Erlangen.
 Before that I have been a BSc student in [Mechatronics Engineering](https://www.mechatronik.studium.fau.de) at the same university.
 Previously I completed an apprenticeship in carpentry (fine woodwork) in the Allgäu region.
