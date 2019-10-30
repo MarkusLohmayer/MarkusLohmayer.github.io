@@ -5,19 +5,17 @@ title: Research
 
 ## Master thesis (2019)
 
-<dl>
-	<dt>Title</dt>
-	<dd>Towards a port-Hamiltonian approach to study Stirling-cycle devices</dd>
+**Title**:
+Towards a port-Hamiltonian approach to study Stirling-cycle devices
 
-	<dt>Keywords</dt>
-  <dd>Port-Hamiltonian systems theory,
-			Non-Equilibrium Thermodynamics (GENERIC framework),
-			Stirling-cycle devices,
-			Renewable Energy</dd>
+**Keywords**:
+Port-Hamiltonian systems theory,
+Non-Equilibrium Thermodynamics (GENERIC framework),
+Stirling-cycle devices,
+Renewable Energy
 
-  <dt>Supervisors</dt>
-  <dd>[Sigrid Leyendecker](http://ltd.techfak.fau.de/Team/Leyendecker/SLeyendecker_Publications.htm),
-			[Paul Kotyczka](https://www.rt.mw.tum.de/en/members/current/paul-kotyczka/),
-			[Tobias Scheuermann](https://www.rt.mw.tum.de/en/members/current/tobias-scheuermann/)</dd>
-</dl>
+**Supervisors**:
+[Sigrid Leyendecker](http://ltd.techfak.fau.de/Team/Leyendecker/SLeyendecker_Publications.htm),
+[Paul Kotyczka](https://www.rt.mw.tum.de/en/members/current/paul-kotyczka/),
+[Tobias Scheuermann](https://www.rt.mw.tum.de/en/members/current/tobias-scheuermann/)
 
