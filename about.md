@@ -14,4 +14,4 @@ Please contact me via [email](mailto:{{ site.author.email }}) or [Twitter](https
 
 ### CV
 
-You can find my CV [here]({{ site.baseurl }}/public/downloads/cv.pdf).
+You can find my CV [here]({{ site.baseurl }}/public/about/cv.pdf).
