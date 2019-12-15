@@ -18,11 +18,11 @@ Renewable Energy
 Energy conversion devices
 which are based approximately on the Stirling cycle
 comprise
-`engines'
+'engines'
 which can use low-temperature heat sources
 such as solar thermal energy and industrial waste heat
 as well as
-`refrigerators'
+'refrigerators'
 which can be used for air-conditioning.
 Currently, these devices are not very popular
 but they could play an important role in
@@ -69,8 +69,8 @@ Manually writing problem-specific code
 is avoided by leveraging
 symbolic computation and code generation.
 
-**Software**
-[repo](https://github.com/MarkusLohmayer/master-thesis-code)
+**Software**:
+[git repository](https://github.com/MarkusLohmayer/master-thesis-code)
 
 **Supervisors**:
 [Sigrid Leyendecker](http://ltd.techfak.fau.de/Team/Leyendecker/SLeyendecker_Publications.htm),
