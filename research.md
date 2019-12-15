@@ -62,7 +62,6 @@ the irreversible dynamics destroy some of the exchanged exergy.
 A simple lumped-parameter example shows how
 the graphical modeling language of bond graphs
 can be used to represent GENERIC port-Hamiltonian systems.
-% Software (28 words)
 Simulation results are obtained
 based on a software implementation
 which automatically turns equations into results.
