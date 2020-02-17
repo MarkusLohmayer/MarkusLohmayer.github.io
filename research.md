@@ -7,6 +7,7 @@ title: Research
 
 **Title**:
 Towards a port-Hamiltonian approach to study Stirling-cycle devices
+([PDF]({{ site.baseurl }}/public/research/master-thesis.pdf))
 
 **Keywords**:
 port-Hamiltonian systems theory,
@@ -52,7 +53,7 @@ to nonequilibrium thermodynamic systems
 such as Stirling-cycle devices,
 a previously mentioned connection to
 the GENERIC framework is explored in this thesis.
-By using the total exergy as a Hamiltonian function
+By using the total exergy as a Hamiltonian function,
 irreversible and reversible processes
 can be modeled on an equal footing.
 The structure of GENERIC port-Hamiltonian systems

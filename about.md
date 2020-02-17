@@ -4,13 +4,23 @@ title: About
 ---
 
 I am Markus Lohmayer from southern Germany.
-Currently I am a MSc student in the [Computational Engineering](https://www.ce.studium.fau.eu) programm at FAU, Erlangen.
-Before that I have been a BSc student in [Mechatronics Engineering](https://www.mechatronik.studium.fau.de) at the same university.
-Previously I completed an apprenticeship in carpentry (fine woodwork) in the Allgäu region.
+Currently, I am a technical staff member at the
+[Chair of Applied Dynamics](http://ltd.tf.fau.de) at
+[FAU Erlangen-Nürnberg](http://fau.de).
+I have done a M.Sc. in
+[Computational Engineering](https://ce.studium.fau.de).
+At the time, I have been part of the
+[Bavarian Graduate School in Computational Engineering](http://bgce.de).
+Before that I have been a B.Sc. student in
+[Mechatronics Engineering](https://www.mechatronik.studium.fau.de).
+Before university,
+I completed an apprenticeship in carpentry (fine woodwork) in the Allgäu region.
 
 ### Contact
 
-Please contact me via [email](mailto:{{ site.author.email }}) or [Twitter](https://twitter.com/{{ site.author.twitter }}) (DM).
+Please contact me via [email](mailto:{{ site.author.email }})
+or [Twitter](https://twitter.com/{{ site.author.twitter }}) (DM).
+
 
 ### CV
 
