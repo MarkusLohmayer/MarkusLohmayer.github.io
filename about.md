@@ -9,9 +9,9 @@ Currently, I am a technical staff member at the
 [FAU Erlangen-Nürnberg](http://fau.de).
 I have done a M.Sc. in
 [Computational Engineering](https://ce.studium.fau.de).
-At the time, I have been part of the
-[Bavarian Graduate School in Computational Engineering](http://bgce.de).
-Before that I have been a B.Sc. student in
+and I have been part of the
+[Bavarian Graduate School in Computational Engineering](http://www.bgce.de).
+Earlier, I have been a B.Sc. student in
 [Mechatronics Engineering](https://www.mechatronik.studium.fau.de).
 Before university,
 I completed an apprenticeship in carpentry (fine woodwork) in the Allgäu region.
