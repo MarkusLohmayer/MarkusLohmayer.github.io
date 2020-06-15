@@ -11,7 +11,7 @@ Towards a port-Hamiltonian approach to study Stirling-cycle devices
 
 **Keywords**:
 port-Hamiltonian systems theory,
-non-equilibrium thermodynamics,
+thermodynamics,
 GENERIC framework,
 Stirling-cycle devices,
 renewable energy
