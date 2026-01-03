@@ -1,2 +1,25 @@
 @import 'tailwindcss';
-@plugin '@tailwindcss/typography';
+
+@theme {
+  --color-neutral: #1E1D2C;
+  --color-dark: #111018;
+  --color-violet: #C4A7F1;
+  --color-lime: #B3E1A7;
+  --color-indigo: #CED5F1;
+  --color-orange: #EFB58E;
+  --color-yellow: #F5E3B5;
+  --color-red: #E88675;
+  --color-blue: #92B3F4;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  font-family: 'Spline Sans Mono', monospace;
+}
+
+h1, h2, h3 {
+  font-family: "Quicksand", sans-serif;
+}
