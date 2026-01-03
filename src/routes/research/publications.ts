@@ -16,7 +16,7 @@ export interface Publication {
     {
       slug: 'ephs-language',
       icon: 'fa-solid fa-file',
-      kind: 'Preprint',
+      kind: 'Research article',
       title: 'Exergetic Port-Hamiltonian Systems Modeling Language',
       authors: 'Markus Lohmayer, Owen Lynch, Sigrid Leyendecker',
       year: '2026',
@@ -139,11 +139,11 @@ export interface Publication {
     {
       slug: 'ephs-plasma',
       icon: 'fa-solid fa-file',
-      kind: 'Preprint',
+      kind: 'Research article',
       title: 'Energy-based, geometric, and compositional formulation of fluid and plasma models',
       authors: 'Markus Lohmayer, Michael Kraus, Sigrid Leyendecker',
-      year: '2025',
-      doi: '10.48550/arXiv.2410.00009',
+      year: '2026',
+      doi: '10.1016/j.cnsns.2025.109384',
       summary: `
         The article applies the EPHS language to
         the domain of fluid and plasma dynamics.

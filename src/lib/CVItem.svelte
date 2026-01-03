@@ -15,7 +15,7 @@
     p-4 sm:p-5 md:p-6
   "
 >
-  <div class="flex justify-between items-start">
+  <div class="flex justify-between items-start gap-3">
     <div class="flex items-center gap-3">
       {#if icon}
         <div class="text-lg sm:text-xl md:text-2xl">

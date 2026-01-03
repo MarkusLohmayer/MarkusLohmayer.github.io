@@ -2,7 +2,6 @@ import adapter from '@sveltejs/adapter-static';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-
 	kit: {
 		adapter: adapter({
 			fallback: '404.html'
@@ -10,14 +9,7 @@ const config = {
 		paths: {
 			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
 		}
-	},
-
-  vitePlugin: {
-    inspector: {
-      toggleKeyCombo: 'meta-shift-g',
-    },
-  }
-
+	}
 };
 
 export default config;

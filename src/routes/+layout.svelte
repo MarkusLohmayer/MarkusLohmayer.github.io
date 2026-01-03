@@ -1,7 +1,7 @@
 <script lang="ts">
   import "../app.css";
-  import type { LayoutProps } from './$types';
-  import { page } from '$app/state';
+  import type { LayoutProps } from "./$types";
+  import { page } from "$app/state";
 
   import Header from "$lib/Header.svelte";
   import Footer from "$lib/Footer.svelte";
@@ -27,9 +27,5 @@
     {@render children()}
   </main>
 
-  <Footer
-    prev={ page.data.prev }
-    next={ page.data.next }
-  />
+  <Footer prev={page.data.prev} next={page.data.next} />
 </div>
-

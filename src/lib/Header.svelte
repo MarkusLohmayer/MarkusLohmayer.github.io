@@ -1,10 +1,12 @@
 <script lang="ts">
   import { page } from '$app/state';
+  import { base } from '$app/paths';
+
 	let { y } = $props();
 
 	let tabs = [
-		{ name: 'CV', link: '/' },
-		{ name: 'Research', link: '/research' },
+		{ name: 'CV', link: `${base}/` },
+		{ name: 'Research', link: `${base}/research` },
 	];
 
   function isActive(link:string) {
@@ -33,12 +35,12 @@
   }
 >
   <a
-    href="/"
+    href="{base}/"
     class="text-xl"
   >
     <p>Markus Lohmayer</p>
   </a>
-	<nav class="hidden items-center gap-6 sm:flex">
+	<nav class="items-center gap-6 flex">
     {#each tabs as tab}
       <a
         href={tab.link}

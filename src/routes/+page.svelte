@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { base } from "$app/paths";
   import Section from "$lib/Section.svelte";
   import CVItem from "$lib/CVItem.svelte";
 </script>
@@ -87,13 +88,13 @@
         <li>
           Authored six first-author publications and developed an associated
           software library (see
-          <a href="/research" class="duration-100 hover:text-violet">
+          <a href="{base}/research" class="duration-100 hover:text-violet">
             Research page
           </a>)
         </li>
         <li>
           <a
-            href="/research/publications/dissertation"
+            href="{base}/research/dissertation"
             class="duration-100 hover:text-violet"
           >
             Dissertation: “Exergetic Port-Hamiltonian Systems: a compositional,
@@ -101,7 +102,7 @@
             thermodynamic systems”
           </a>
         </li>
-        <li>Completed doctorate with distinction (sehr gut)</li>
+        <li>Completed doctorate with distinction (“sehr gut”)</li>
       </ul>
     </CVItem>
   </div>

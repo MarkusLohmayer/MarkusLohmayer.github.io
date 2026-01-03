@@ -1,10 +1,10 @@
 <script lang="ts">
-  import Section from '$lib/Section.svelte';
-	import HyperCard from '$lib/HyperCard.svelte';
-  import { publications } from './publications';
-  import { software } from './software';
+  import { base } from "$app/paths";
+  import Section from "$lib/Section.svelte";
+  import HyperCard from "$lib/HyperCard.svelte";
+  import { publications } from "./publications";
+  import { software } from "./software";
 </script>
-
 
 <Section title="Publications">
   <div
@@ -18,14 +18,13 @@
       <HyperCard
         name={item.title}
         icon={item.icon}
-        href={`/research/${item.slug}`}
+        href={`${base}/research/${item.slug}`}
       >
         {item.summary}
       </HyperCard>
     {/each}
   </div>
 </Section>
-
 
 <Section title="Software">
   <div
@@ -36,13 +35,10 @@
     "
   >
     {#each software as item}
-      <HyperCard
-        name={item.name}
-        icon={item.icon}
-        href={item.href}
-      >
+      <HyperCard name={item.name} icon={item.icon} href={item.href}>
         {item.summary}
       </HyperCard>
     {/each}
   </div>
 </Section>
+

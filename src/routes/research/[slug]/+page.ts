@@ -1,4 +1,4 @@
-
+import { base } from '$app/paths';
 import { publications, type Publication } from '../publications';
 import { error } from '@sveltejs/kit';
 
@@ -11,7 +11,7 @@ export const load = ({ params }) => {
     const next = publications[idx + 1] ?? undefined;
     return {
       item: item,
-      prev: prev && { label: prev.title, href: `/research/${prev.slug}` },
-      next: next && { label: next.title, href: `/research/${next.slug}` },
+      prev: prev && { label: prev.title, href: `${base}/research/${prev.slug}` },
+      next: next && { label: next.title, href: `${base}/research/${next.slug}` },
     };
   };

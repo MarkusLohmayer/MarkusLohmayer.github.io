@@ -8,7 +8,7 @@
   class="
     flex flex-col gap-6
     text-center
-    mx-10
+    mx-10 md:mx-5 sm:mx-0
     my-5
   "
 >
