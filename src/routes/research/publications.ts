@@ -19,16 +19,13 @@ export interface Publication {
       kind: 'Preprint',
       title: 'Exergetic Port-Hamiltonian Systems Modeling Language',
       authors: 'Markus Lohmayer, Owen Lynch, Sigrid Leyendecker',
-      year: '2025',
-      doi: '10.48550/arXiv.2402.17640',
+      year: '2026',
+      doi: '10.1016/j.heliyon.2025.e44191',
       summary: `
-        The article introduces a formal modeling language
-        for mechanical, electromagnetic, and thermodynamic systems.
-        The EPHS language has a simple graphical syntax that enables
-        the hierarchical composition of
-        increasingly complex systems from simpler subsystemes.
-        Its relational semantics guarantees that
-        systems respect the first and second laws of thermodynamics.
+        Our goal is to make complex energy-based models easier to build, understand, reuse, and refactor without sacrificing mathematical rigor.
+        We introduce a graphical, compositional modeling language in which models are expressed as energy-flow diagrams.
+        Crucially, the graphical syntax and the port-Hamiltonian semantics compose in compatible ways, enabling seamless hierarchical (de)composition of systems.
+        Additional structural properties guarantee not just passivity, but thermodynamic consistency (1st & 2nd law).
       `,
       abstract: `
         Mathematical modeling of real-world physical systems
