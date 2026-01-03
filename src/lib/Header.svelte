@@ -3,8 +3,7 @@
 	let { y } = $props();
 
 	let tabs = [
-		{ name: 'Skills', link: '/' },
-		{ name: 'CV', link: '/cv' },
+		{ name: 'CV', link: '/' },
 		{ name: 'Research', link: '/research' },
 	];
 
